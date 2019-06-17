@@ -1,6 +1,8 @@
 # hello-world
 This is my first Git Hub repository
 
+From GitHub tutorial:
+
 Hi Humans!
 
 Hubot here, I like Node.js and Coffeescript (that's what I'm made of!)
