@@ -1,7 +1,7 @@
 # hello-world
 This is my first Git Hub repository
 
-From GitHub tutorial:
+From GitHub tutorial example:
 
 Hi Humans!
 
